@@ -5,9 +5,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class SystemLoginApplication {
-
-	public static void main(String[] args) {
-		SpringApplication.run(SystemLoginApplication.class, args);
-	}
-
+    public static void main(String[] args) {
+        SpringApplication.run(SystemLoginApplication.class, args);
+    }
 }
+
+
